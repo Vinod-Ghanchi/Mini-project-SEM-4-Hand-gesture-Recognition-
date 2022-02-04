@@ -14,4 +14,4 @@ We can also alter system features such as volume control and a virtual mouse and
 ## Contributors
 
   - Vinod Ghanchi
-  - KAushik Iyer
+  - Kaushik Iyer
